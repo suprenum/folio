@@ -4,7 +4,8 @@
 - My first Portfolio
 
 # Content
-- Site for publishing projects, experiments and personal work. Some projects will have separate pages for description and creation history
+- Site for publishing projects, experiments and personal work. 
+- Some projects will have separate pages for description and creation history
 
 # TODO
 - [x] design: done
